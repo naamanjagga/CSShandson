@@ -4,6 +4,10 @@ body {
   color: green;
   font-family: monospace;
 }
+#orange-text {
+  color: orange;
+}
+
 .pink-text {
    color: pink;
 }
