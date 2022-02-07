@@ -10,14 +10,14 @@ body {
 .red-text {
   color: #FF0000;
 }
-.fuchsia-text {
-  color: #F0F;
+.orchid-text {
+  color: rgb(218, 112, 214);
 }
-.cyan-text {
-  color: #0FF;
+.sienna-text {
+  color: rgb(160, 82, 45);
 }
-.green-text {
-  color: #00FF00;
+.blue-text {
+  color: rgb(0, 0, 255);
 }
 
 
