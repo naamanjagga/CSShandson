@@ -10,3 +10,7 @@
   h2 {
     font-family: Lobster, monospace;
   }
+
+  .smaller-image {
+    width: 100px;
+  }
