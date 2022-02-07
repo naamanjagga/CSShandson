@@ -7,6 +7,18 @@ body {
 #orange-text {
   color: orange;
 }
+.red-text {
+  color: #FF0000;
+}
+.green-text {
+  color: #00FF00;
+}
+.dodger-blue-text {
+  color: #1E90FF;
+}
+.orange-text {
+  color: #FFA500;
+}
 
 .pink-text {
    color: pink !important;
