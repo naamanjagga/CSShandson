@@ -4,6 +4,9 @@ body {
   color: green;
   font-family: monospace;
 }
+.pink-text {
+   color: pink;
+}
 
 .red-text {
     color: red;
