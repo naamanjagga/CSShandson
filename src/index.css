@@ -1,13 +1,18 @@
 
 :root {
-  /* Only change code below this line */
-      --penguin-belly: pink;
-  /* Only change code above this line */
+  --penguin-skin: gray;
+  --penguin-belly: pink;
+  --penguin-beak: orange;
 }
+
+body {
+  background: var(--penguin-belly, #c6faf1);
+}
+
 .penguin {
 
   /* Only change code below this line */
-  --penguin-skin: gray;
+  --penguin-belly: white;
   /* Only change code above this line */
 
   position: relative;
