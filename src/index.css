@@ -248,12 +248,7 @@ body {
     padding: 10px;
   }
 
-  .red-box {
-    background-color: crimson;
-    color: #fff;
-    margin: 20px 40px 20px 40px;
-    padding: 1.5em;
-  }
+  
 
   .blue-box {
     background-color: blue;
@@ -263,4 +258,13 @@ body {
   [type='checkbox'] {
     margin-top: 10px;
     margin-bottom: 15px;
+  }
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px; 
   }
